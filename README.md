@@ -1,7 +1,7 @@
 # Bluetooth-Speaker-V2
 A cleaner, sleeker Bluetooth speaker using parts from the one I built in engineering class.
 ## Description
-This is a redesign of the Bluetooth speaker I made in my engineering class. The original speaker was made from plywood and was powered by a lipo battery system. I decided to 3D print the enclosure this time to give it a sleeker design, and went with a USB Micro-B connection for direct power since this one is meant to sit permanently at my desk (and the components for the lipo system weren't consistent). 
+This is a redesign of the Bluetooth speaker I made in my engineering class. The original speaker was made from plywood and was powered by a lipo battery system. I decided to 3D print the enclosure this time to give it a sleeker design, and went with a USB Micro-B connection for direct power since this one is meant to sit permanently at my desk (and the components for the lipo system weren't consistent). https://hallco.onshape.com/documents/a0346f85c55b197866ffa839/w/45844834e756e30cdf49984f/e/b82fa72779c787932b57bcae?renderMode=0&uiState=6afc369c0519ccb0693a1e33
 ### Screenshots
 <img width="794" height="380" alt="Screenshot 2026-11-16 201650" src="https://github.com/user-attachments/assets/f4d7c589-f84b-4099-ba3a-1c93337a50c0" />
 <img width="3000" height="4000" alt="644" src="https://github.com/user-attachments/assets/203b688a-2fbd-433e-b592-42d935dc493b" />
